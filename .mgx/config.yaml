@@ -1,0 +1,4 @@
+build: pnpm run build
+build_path: dist
+dev: pnpm run dev --host --port 5177
+install: pnpm install
